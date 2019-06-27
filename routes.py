@@ -2,7 +2,7 @@ from app import app
 @app.route('/')
 @app.route('/index')
 def index():
-    user= {"username" : 'Jasmeet'}
+    user= {"username" : 'Jasdep'}
     return '''
     <html>
     <head>
